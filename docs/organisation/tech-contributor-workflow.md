@@ -1,8 +1,7 @@
 ---
+id: tech-contributor-workflow
 title: Technical contributor workflow
-weight: 300
-last_reviewed_on: 2021-10-19
-review_in: 12 weeks
+pagination_label: Technical contributor workflow
 ---
 # Technical contributor workflow
 

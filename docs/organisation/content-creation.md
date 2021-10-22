@@ -1,8 +1,7 @@
 ---
+id: content-creation
 title: Content creation options
-weight: 200
-last_reviewed_on: 2021-10-19
-review_in: 22 weeks
+pagination_label: Content creation options
 ---
 
 #  Content creation

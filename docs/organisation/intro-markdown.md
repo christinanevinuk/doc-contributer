@@ -1,7 +1,6 @@
 ---
+id: intro-markdown
 title: Markdown introduction
-weight: 100
-last_reviewed_on: 2021-10-21
-review_in: 22 weeks
+pagination_label: Markdown introduction
 ---
 # Markdown introduction

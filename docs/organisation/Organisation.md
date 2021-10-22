@@ -1,6 +1,7 @@
 ---
+id: organisation 
 title: Organisation
-weight: 2
+pagination_label: Organisation
 ---
 # Organisation
 

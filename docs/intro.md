@@ -1,8 +1,6 @@
 ---
-id: home
-title: TRG Contributors Help
-sidebar_position: 1
-sidebar_label: TRG Contributors' Help Guide
+id: introduction
+title: TRG Contributors Help guide
 pagination_label: Home
 ---
 

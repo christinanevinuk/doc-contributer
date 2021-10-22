@@ -1,7 +1,6 @@
 ---
+id: intro-git-github
 title: Git and GitHub introduction
-weight: 150
-last_reviewed_on: 2021-10-21
-review_in: 22 weeks
+pagination_label: Git & GitHub introduction
 ---
 # Git and GitHub introduction

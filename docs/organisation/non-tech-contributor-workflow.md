@@ -1,8 +1,7 @@
 ---
+id: non-tech-contributor-workflow
 title: Non-technical contributor workflow
-weight: 250
-last_reviewed_on: 2021-10-19
-review_in: 12 weeks
+pagination_label: Non-technical contributor workflow
 ---
 # Non-technical contributor workflow
 
